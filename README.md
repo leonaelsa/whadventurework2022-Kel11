@@ -1,15 +1,15 @@
 Langkah-langkah yang dibutuhkan untuk menjalankan app dengan baik :
 
-Install database server: MySql 
-Install software mysql management: phpMyAdmin dari Xampp 
-Extract whadevnturework2022-kel11.zip pada folder htdocs XAMPP (xampp/htdocs).
-Jalankan Xampp control panel.
-Start apache dan mysql server dan tomcat
-Buka phpMyAdmin (localhost/phpmyadmin).
-Buat database dengan nama whadventurework1011.
-Import file whadventurework2022.sql ke dalam database whadventurework2022.
-masukan folder mondiran ke dalam server Tomcat bawaan dari XAMPP (xampp/tomcat/webapps).
-Jalankan aplikasi dengan mengakses http://localhost/whadventurework2022
+1.Install database server: MySql 
+2.Install software mysql management: phpMyAdmin dari Xampp 
+3.Extract whadevnturework2022-kel11.zip pada folder htdocs XAMPP (xampp/htdocs).
+4.Jalankan Xampp control panel.
+5.Start apache dan mysql server dan tomcat
+6.Buka phpMyAdmin (localhost/phpmyadmin).
+7.Buat database dengan nama whadventurework1011.
+8.Import file whadventurework2022.sql ke dalam database whadventurework2022.
+9.masukan folder mondiran ke dalam server Tomcat bawaan dari XAMPP (xampp/tomcat/webapps).
+10.Jalankan aplikasi dengan mengakses http://localhost/whadventurework2022
 
 
 # [Start Bootstrap - SB Admin 2](https://startbootstrap.com/theme/sb-admin-2/)
