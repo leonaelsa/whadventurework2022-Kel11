@@ -6,7 +6,7 @@
 * Jalankan Xampp control panel.
 * Start apache dan mysql server dan tomcat
 * Buka phpMyAdmin (localhost/phpmyadmin).
-* Buat database dengan nama whadventurework1011.
+* Buat database dengan nama whadventurework2022.
 * Import file whadventurework2022.sql ke dalam database whadventurework2022.
 * Masukan folder mondiran ke dalam server Tomcat bawaan dari XAMPP (xampp/tomcat/webapps)
 * Jalankan aplikasi dengan mengakses http://localhost/whadventurework2022
